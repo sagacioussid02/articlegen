@@ -1,0 +1,15 @@
+{
+    "name": "articlegen",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "openai": "^4.28.4"
+    }
+}
